@@ -1,0 +1,20 @@
+# 拼豆材料清单 159x189
+总豆数: 27038
+颜色数: 16
+
+Apricot	RGB(228, 176, 144)	8412
+Tan	RGB(200, 144, 104)	4074
+Warm Tan	RGB(216, 160, 120)	2997
+Shadow Tan	RGB(154, 104, 72)	2051
+Walnut	RGB(110, 64, 40)	1993
+Caramel	RGB(184, 120, 80)	1947
+Brown	RGB(74, 44, 24)	1664
+Black	RGB(18, 18, 18)	1270
+Dark Brown	RGB(42, 24, 16)	937
+Deep Shadow	RGB(120, 80, 64)	617
+Espresso	RGB(62, 36, 22)	472
+Light Peach	RGB(255, 210, 176)	192
+Lip Pink	RGB(208, 96, 104)	171
+Peach	RGB(240, 192, 154)	153
+Cocoa	RGB(90, 50, 32)	70
+Cream	RGB(255, 232, 208)	18
